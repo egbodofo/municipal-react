@@ -3,7 +3,7 @@ import { MDBContainer, MDBRow, MDBCol, MDBCard, MDBCardBody } from 'mdbreact';
 import styled from 'styled-components';
 
 const Axe = styled.h1`
-  text-shadow: 2px 2px 2px black, 0 0 0.5em blue, 0 0 0.1em blue;
+  text-shadow: 2px 2px 2px black, 0 0 0.6em blue, 0 0 0.1em blue;
   color: gold;
   font: 4em Georgia, serif;
   font-weight: bold;
@@ -32,7 +32,7 @@ const Executives = () => {
               />
             </p>
             <MDBCardBody>
-              <h4 className="font-weight-bold mb-3">MAjani Oke</h4>
+              <h4 className="font-weight-bold mb-3">Ajani Oke</h4>
               <p className="font-weight-bold blue-text">
                 <a href="/executiveshow">Chairman</a>
               </p>
